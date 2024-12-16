@@ -5,10 +5,10 @@
 ### About me
 
 - :school: Undergraduate student in Huazhong University of Science and Technology. Major in INFOSEC.
-- :face_with_spiral_eyes: Now struggling with PWN & CTF. Member of team L3H_SEC.
+- :face_with_spiral_eyes: Noob CTFer struggling with PWN. Member of team L3H_SEC.
 - :ninja: **I use** ![Static Badge](https://img.shields.io/badge/Arch-blue?style=flat&logo=archlinux&logoColor=white&logoSize=auto)
 - :technologist: A little bit interested in low-level development like driver or OS.
-- :dart: Looking forward to learn fuzzing, full-stack web development and driver-development.
+- :dart: Looking forward to learn fuzzing, full-stack web development and kernel exploit.
 - :guitar: Shoegaze, EMO, Hyperpop...? ~~NO ANIME~~
 - :computer: Recently used ![RUST](https://img.shields.io/badge/Rust-red?style=flat&logo=Rust&logoColor=white&logoSize=auto)  ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-blue?style=flat&logo=C&logoColor=white&logoSize=auto)  ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white&logoSize=auto) ,willing to learn more.
 - :notebook: Welcome to [my blog](https://zjw1nd.github.io).
