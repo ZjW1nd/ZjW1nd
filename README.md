@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=703&color=B3E0AFFF&background=CECECE00&center=true&vCenter=true&width=1000&lines=Choose+a+fucking+big+television.;Choose+life.)](https://git.io/typing-svg)
 <!--EBFFE0-->
-## <center> Who the hell is Zj_W1nd?
+## <div align="center"> Who the hell is Zj_W1nd? </div>
 
 ### About me
 
