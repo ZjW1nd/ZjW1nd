@@ -10,8 +10,8 @@
 - :technologist: A little bit interested in low-level development like driver or OS.
 - :dart: Looking forward to learn fuzzing, full-stack web development and driver-development.
 - :guitar: Shoegaze, EMO, Hyperpop...? ~~NO ANIME~~
-- :notebook: Visit [my blog](https://zjw1nd.github.io) to know more.
 - :computer: Recently used ![RUST](https://img.shields.io/badge/Rust-red?style=flat&logo=Rust&logoColor=white&logoSize=auto)  ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-blue?style=flat&logo=C&logoColor=white&logoSize=auto)  ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white&logoSize=auto) ,willing to learn more.
+- :notebook: Welcome to [my blog](https://zjw1nd.github.io).
 - :clown_face: No good at nothing. Make this page just for fun.
 
 
@@ -22,8 +22,8 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="/images/rust.svg" alt="Rust" height="50" /></a> 
-<a href="" target="_blank"><img style="margin: 10px" src="/images/kali.png" alt="Rust" height="50" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="/images/rust.png" alt="Rust" height="50" /></a> 
+<a href="https" target="_blank"><img style="margin: 10px" src="/images/kali.png" alt="Rust" height="50" /></a>
 </div>
 
 ### Recently Post
