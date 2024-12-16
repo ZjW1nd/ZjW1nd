@@ -27,10 +27,10 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 
 ### Recently Post
 <!-- BLOG-POST-LIST:START -->
-- [How2Heap总集篇导演剪辑剧场版](http://example.com/2024/12/13/How2Heap%E6%80%BB%E9%9B%86%E7%AF%87%E5%AF%BC%E6%BC%94%E5%89%AA%E8%BE%91%E5%89%A7%E5%9C%BA%E7%89%88/)
-- [How2Heap-rust——qwb2024_chat-with-me](http://example.com/2024/12/12/rust-pwn-qwb2024-chat-with-me/)
-- [常见的加密算法逆向识别](http://example.com/2024/11/11/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E8%AF%86%E5%88%AB/)
-- [How2Heap实战——强网杯2024babyheap](http://example.com/2024/11/10/How2Heap%E5%AE%9E%E6%88%98%E2%80%94%E2%80%94%E5%BC%BA%E7%BD%91%E6%9D%AF2024babyheap/)
+- [How2Heap总集篇导演剪辑剧场版](https://zjw1nd.github.io/2024/12/13/How2Heap%E6%80%BB%E9%9B%86%E7%AF%87%E5%AF%BC%E6%BC%94%E5%89%AA%E8%BE%91%E5%89%A7%E5%9C%BA%E7%89%88/)
+- [How2Heap-rust——qwb2024_chat-with-me](https://zjw1nd.github.io/2024/12/12/rust-pwn-qwb2024-chat-with-me/)
+- [常见的加密算法逆向识别](https://zjw1nd.github.io/2024/11/11/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E8%AF%86%E5%88%AB/)
+- [How2Heap实战——强网杯2024babyheap](https://zjw1nd.github.io/2024/11/10/How2Heap%E5%AE%9E%E6%88%98%E2%80%94%E2%80%94%E5%BC%BA%E7%BD%91%E6%9D%AF2024babyheap/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Email
