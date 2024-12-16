@@ -5,7 +5,7 @@
 ### About me
 
 - :school: Undergraduate student in Huazhong University of Science and Technology. Major in INFOSEC.
-- :face_with_spiral_eyes: Noob CTFer struggling with PWN. Member of team L3H_SEC.
+- :dizzy_face: Noob CTFer struggling with PWN. Member of team L3H_SEC.
 - :ninja: **I use** ![Static Badge](https://img.shields.io/badge/Arch-blue?style=flat&logo=archlinux&logoColor=white&logoSize=auto)
 - :technologist: A little bit interested in low-level development like driver or OS.
 - :dart: Looking forward to learn fuzzing, full-stack web development and kernel exploit.
