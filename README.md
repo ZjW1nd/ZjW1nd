@@ -37,9 +37,9 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 ### Email
 Normally U can reach me through:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/gmail-red?style=flat&logo=Gmail&logoColor=white&logoSize=auto&link=zjl3061687415%40gmail.com"> **(Not frequently check)**
+<img alt="Static Badge" src="https://img.shields.io/badge/gmail-red?style=plastic&logo=Gmail&logoColor=white&logoSize=auto&link=zjl3061687415%40gmail.com"> **(Not frequently check)**
 
-<img alt="Static Badge" src="https://img.shields.io/badge/163mail-darkred?style=flat&logo=mailbox.org&logoColor=white&logoSize=auto&link=zjl3061687415%40gmail.com">
+<img alt="Static Badge" src="https://img.shields.io/badge/QQmail-blue?style=plastic&logo=mailbox.org&logoColor=white&logoSize=auto&link=zj_w1nd%40qq.com">
 
 ***
 > "你是职业选手吗？"
