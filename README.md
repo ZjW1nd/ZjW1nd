@@ -28,10 +28,10 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 
 ### Recently Post
 <!-- BLOG-POST-LIST:START -->
+- [Arch安装备忘手册](https://zjw1nd.github.io/2025/02/24/Arch%E5%AE%89%E8%A3%85%E5%A4%87%E5%BF%98%E6%89%8B%E5%86%8C/)
+- [linux杂谈（持续更新）](https://zjw1nd.github.io/2025/02/24/linux%E6%9D%82%E8%B0%88%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
 - [IDA-Better_printk推广](https://zjw1nd.github.io/2025/02/20/IDA-Better-printk%E6%8E%A8%E5%B9%BF/)
 - [ciscn_ccb2025初赛-avm重做wp](https://zjw1nd.github.io/2025/02/20/ciscn-ccb2025%E5%88%9D%E8%B5%9B-avm%E9%87%8D%E5%81%9Awp/)
-- [前端小实践之修复github列表渲染错误](https://zjw1nd.github.io/2024/12/17/%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%BF%AE%E5%A4%8Dgithub%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF/)
-- [How2Heap总集篇导演剪辑剧场版](https://zjw1nd.github.io/2024/12/13/How2Heap%E6%80%BB%E9%9B%86%E7%AF%87%E5%AF%BC%E6%BC%94%E5%89%AA%E8%BE%91%E5%89%A7%E5%9C%BA%E7%89%88/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Email
