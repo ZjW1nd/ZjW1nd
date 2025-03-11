@@ -28,10 +28,10 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 
 ### Recently Post
 <!-- BLOG-POST-LIST:START -->
-- [Arch安装备忘手册](https://zjw1nd.github.io/2025/02/24/Arch%E5%AE%89%E8%A3%85%E5%A4%87%E5%BF%98%E6%89%8B%E5%86%8C/)
-- [linux杂谈（持续更新）](https://zjw1nd.github.io/2025/02/24/linux%E6%9D%82%E8%B0%88%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
-- [IDA-Better_printk推广](https://zjw1nd.github.io/2025/02/20/IDA-Better-printk%E6%8E%A8%E5%B9%BF/)
-- [ciscn_ccb2025初赛-avm重做wp](https://zjw1nd.github.io/2025/02/20/ciscn-ccb2025%E5%88%9D%E8%B5%9B-avm%E9%87%8D%E5%81%9Awp/)
+- [简短的IO函数特性整理——受scanf启发](https://zjw1nd.github.io/2025/03/11/%E7%AE%80%E7%9F%AD%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0%E7%89%B9%E6%80%A7%E6%95%B4%E7%90%86%E2%80%94%E2%80%94%E5%8F%97scanf%E5%90%AF%E5%8F%91/)
+- [2023ciscn决赛awdp复现思路](https://zjw1nd.github.io/2025/03/10/2023ciscn%E5%86%B3%E8%B5%9Bawdp%E5%A4%8D%E7%8E%B0%E6%80%9D%E8%B7%AF/)
+- [新手渗透准备技巧](https://zjw1nd.github.io/2025/03/10/%E6%96%B0%E6%89%8B%E6%B8%97%E9%80%8F%E5%87%86%E5%A4%87%E6%8A%80%E5%B7%A7/)
+- [Awdp-PWN准备技巧](https://zjw1nd.github.io/2025/02/25/Awdp-PWN%E5%87%86%E5%A4%87%E6%8A%80%E5%B7%A7/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Email
