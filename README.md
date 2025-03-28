@@ -28,10 +28,10 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 
 ### Recently Post
 <!-- BLOG-POST-LIST:START -->
+- [漏洞挖掘入门（持续更新）](https://zjw1nd.github.io/2025/03/28/SRC%E4%B8%8E%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
+- [内核fuzzing--Syzkaller初探](https://zjw1nd.github.io/2025/03/24/%E5%86%85%E6%A0%B8fuzzing-Syzkaller%E5%88%9D%E6%8E%A2/)
 - [基于qemu和ubuntu-base的kdump分析环境](https://zjw1nd.github.io/2025/03/21/%E5%9F%BA%E4%BA%8Eqemu%E5%92%8Cubuntu-base%E7%9A%84kdump%E5%88%86%E6%9E%90%E7%8E%AF%E5%A2%83/)
 - [2025ciscnccb复盘小记](https://zjw1nd.github.io/2025/03/17/2025ciscnccb%E5%A4%8D%E7%9B%98%E5%B0%8F%E8%AE%B0/)
-- [常见的加密编码算法逆向识别](https://zjw1nd.github.io/2025/03/12/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E8%AF%86%E5%88%AB/)
-- [简短的IO函数特性整理——受scanf启发](https://zjw1nd.github.io/2025/03/11/%E7%AE%80%E7%9F%AD%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0%E7%89%B9%E6%80%A7%E6%95%B4%E7%90%86%E2%80%94%E2%80%94%E5%8F%97scanf%E5%90%AF%E5%8F%91/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Email
