@@ -28,10 +28,10 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 
 ### Recently Post
 <!-- BLOG-POST-LIST:START -->
-- [基于LLM的kdump分析开发日志（持续更新）](https://zjw1nd.github.io/2025/04/17/%E5%9F%BA%E4%BA%8ELLM%E7%9A%84kdump%E5%88%86%E6%9E%90%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
-- [DefCon33 Qual](https://zjw1nd.github.io/2025/04/14/DefCon33-Qual/)
-- [Algorithm-leetcode](https://zjw1nd.github.io/2025/04/07/Algorithm-leetcode/)
-- [漏洞挖掘入门（持续更新）](https://zjw1nd.github.io/2025/03/28/SRC%E4%B8%8E%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
+- [aliyunctf-beebee复现](https://zjw1nd.github.io/2025/06/08/aliyunctf-beebee%E5%A4%8D%E7%8E%B0/)
+- [网安实践之简单的固件漏洞利用](https://zjw1nd.github.io/2025/05/19/%E7%BD%91%E5%AE%89%E5%AE%9E%E8%B7%B5%E4%B9%8B%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BA%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/)
+- [基于LLM的kdump分析开发日志（持续更新）](https://zjw1nd.github.io/2025/04/30/%E5%9F%BA%E4%BA%8ELLM%E7%9A%84kdump%E5%88%86%E6%9E%90%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
+- [从0开始的AFL++](https://zjw1nd.github.io/2025/04/30/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%9A%84AFLPlusPlus/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Email
