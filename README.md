@@ -28,10 +28,10 @@ Well actually I'm not **that** good at these skills below but whatever man just 
 
 ### Recently Post
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Vibe SecurityReserch&quot;: 我是如何用ai发现CVE-2025-57632的](https://zjw1nd.github.io/2025/08/26/Vibe-SecurityReserch-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E7%94%A8ai%E5%8F%91%E7%8E%B00day%E5%B9%B6%E6%92%B0%E5%86%99poc%E7%9A%84/)
-- [aliyunctf-beebee复现](https://zjw1nd.github.io/2025/06/08/aliyunctf-beebee%E5%A4%8D%E7%8E%B0/)
-- [网安实践之简单的固件漏洞利用](https://zjw1nd.github.io/2025/05/19/%E7%BD%91%E5%AE%89%E5%AE%9E%E8%B7%B5%E4%B9%8B%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BA%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/)
-- [基于LLM的kdump分析开发日志（持续更新）](https://zjw1nd.github.io/2025/04/30/%E5%9F%BA%E4%BA%8ELLM%E7%9A%84kdump%E5%88%86%E6%9E%90%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/)
+- [CVE-2023-4357: Chromium任意文件读取](https://zjw1nd.github.io/2025/10/24/CVE-2023-4357-Chromium%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/)
+- [CVE-2023-21746: LocalPotato探究](https://zjw1nd.github.io/2025/10/24/CVE-2023-21746-LocalPotato%E6%8E%A2%E7%A9%B6/)
+- [2025QWB PWN复现](https://zjw1nd.github.io/2025/10/24/2025QWB-PWN%E5%A4%8D%E7%8E%B0/)
+- [LocalPotato&lpar;cve-2023-21746&rpar;: ntlm认证中的逻辑问题](https://zjw1nd.github.io/2025/09/26/LocalPotato-cve-2023-21746-ntlm%E8%AE%A4%E8%AF%81%E4%B8%AD%E7%9A%84%E9%80%BB%E8%BE%91%E9%97%AE%E9%A2%98/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Email
